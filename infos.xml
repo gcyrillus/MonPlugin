@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<document>
+	<title><![CDATA[mon plugin]]></title>
+	<author><![CDATA[G.Cyrille]]></author>
+	<version>1</version>
+	<date>01/01/1980</date>
+	<site>https://pluxopolis.net</site>
+	<description><![CDATA[Ajoute aux pages statiques le module commentaires de PluXml.]]></description>
+	<scope></scope>
+	</document>
